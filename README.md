@@ -1,11 +1,11 @@
-# JVM Day – Retries ⚡
+# Joker/JVM Day – Retries ⚡
 
 <img src="https://img.shields.io/badge/Java-21-blue" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring-Boot-green" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/Resilience4j-💪-orange" alt="Resilience4j"/>
 <img src="https://img.shields.io/badge/Testing-WireMock-lightgrey" alt="WireMock"/>
 
-📌 Repository with demo code for my talk at **JVM Day**:  
+📌 Repository with demo code for my talk at **Joker/JVM Day**:  
 **“Retries: Love at the Third Attempt”**.  
 It contains examples of retry strategies, patterns, and tests.  
 And of course — the most important part of the talk: the applause code. 👏
